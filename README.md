@@ -7,3 +7,4 @@ Documentation:
 		A database named “shipwire” is used, DB connection settings is located at /shipwire/application/config/database.php
 4. Products list URL: http://localhost:8888
 5. Orders list URL: http://localhost:8888/index.php/welcome/order_records
+6. Google URL shortner api is used in /shipwire/application/helpers/MY_url_helper.php
